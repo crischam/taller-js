@@ -17,4 +17,4 @@
 ![EDAD](/pantallazos/EDAD.PNG)
 
 #ejercicio 6
-![CALCULAR](/pantallazos/CALCULAR.PNG)
+![CALCULAR](/pantallazos/CALCULARMAYOR.PNG)
