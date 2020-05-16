@@ -1,20 +1,20 @@
 # taller-js
-## cirustian agudelo
+## cristian agudelo
 
 #ejercicio 1
-![suma](/pantallazo/SUMA.PNG)
+![suma](/pantallazos/SUMA.PNG)
 
 #ejercicio 2
-![PROMEDIAR](/pantallazo/PROMEDIAR.PNG)
+![PROMEDIAR](/pantallazos/PROMEDIAR.PNG)
 
 #ejercicio 3
-![PAR](/pantallazo/PAR.PNG)
+![PAR](/pantallazos/PAR.PNG)
 
 #ejercicio 4
-![FACTORIAL](/pantallazo/FACTORIAL.PNG)
+![FACTORIAL](/pantallazos/FACTORIAL.PNG)
 
 #ejercicio 5
-![EDAD](/pantallazo/EDAD.PNG)
+![EDAD](/pantallazos/EDAD.PNG)
 
 #ejercicio 6
-![CALCULAR](/pantallazo/CALCULAR.PNG)
+![CALCULAR](/pantallazos/CALCULAR.PNG)
