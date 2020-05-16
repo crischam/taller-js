@@ -1,0 +1,19 @@
+.container {
+  margin-top: 20px;
+  min-width: 400px;
+}
+.container .card {
+  margin: 20px;
+}
+.container .card .form-control {
+  margin: 20px;
+  max-width: 280px;
+}
+.container label {
+  margin-left: 40px;
+}
+.container #result {
+  text-align: center;
+}
+
+/*# sourceMappingURL=estilo.css.map */

@@ -1,0 +1,12 @@
+.my-card {
+  max-width: 400px;
+  margin: 20px;
+}
+.my-card .form-inline {
+  margin-bottom: 20px;
+}
+.my-card .form-inline input {
+  margin-left: 20px;
+}
+
+/*# sourceMappingURL=estilo.css.map */

@@ -1,0 +1,17 @@
+.container {
+  max-width: 400px;
+}
+.container .card {
+  margin-top: 20px;
+}
+.container .form-inline {
+  margin: 10px;
+}
+.container .form-control {
+  margin-left: 20px;
+}
+.container #result {
+  margin-left: 50px;
+}
+
+/*# sourceMappingURL=estilo.css.map */
